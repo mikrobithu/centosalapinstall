@@ -1,2 +1,2 @@
 # centosalapinstall
-Centos 6/ nte install utanna konfigurlasa
+Centos 6/7 install utanni konfiguralasa
